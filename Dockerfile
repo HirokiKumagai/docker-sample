@@ -1,6 +1,6 @@
 FROM node:12-alpine
 
-RUN apk add --no-chache \
+RUN apk add --no-cache \
         python \
         g++ \
         make
